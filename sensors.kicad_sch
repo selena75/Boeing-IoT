@@ -1,0 +1,96 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8f1d7245-412b-4ef9-96ae-a06bde3181bd")
+	(paper "A4")
+	(lib_symbols)
+	(rectangle
+		(start 33.02 33.02)
+		(end 119.38 96.52)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "323a170c-9d18-447f-8fec-aa25eba6d93d")
+	)
+	(rectangle
+		(start 139.7 33.02)
+		(end 241.3 96.52)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "73a6043d-a7eb-4b27-ad4d-1c439429f818")
+	)
+	(rectangle
+		(start 142.24 104.14)
+		(end 243.84 175.26)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "88bc26dc-cc17-4112-bd74-cd6f972bde82")
+	)
+	(rectangle
+		(start 30.48 104.14)
+		(end 116.84 177.8)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "915915b7-7fb7-40e3-a275-7f6da4b3f946")
+	)
+	(text "temperature/humidity ​sensor"
+		(exclude_from_sim no)
+		(at 50.038 35.052 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "162f8646-0157-4366-8741-3c66f88a400e")
+	)
+	(text "IMU"
+		(exclude_from_sim no)
+		(at 145.796 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "279bf38c-bb01-43b0-b612-81bb7d3b3028")
+	)
+	(text "Vibration Sensor ​(MEMS accelerometer)​"
+		(exclude_from_sim no)
+		(at 51.308 106.68 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8febcdac-e6ad-4ddc-ba40-6f0e819dd5be")
+	)
+	(text "light sensor (phototransistor)​"
+		(exclude_from_sim no)
+		(at 155.448 36.068 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "ca15c267-3a23-4983-b5fb-2b38a4ebb252")
+	)
+)
